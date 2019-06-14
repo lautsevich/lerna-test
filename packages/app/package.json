@@ -21,9 +21,12 @@
     "url": "git+https://github.com/lautsevich/lerna-test.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "start": "node ."
   },
   "bugs": {
     "url": "https://github.com/lautsevich/lerna-test/issues"
+  },
+  "dependencies": {
+    "lib": "^0.1.0"
   }
 }
