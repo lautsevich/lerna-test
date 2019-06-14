@@ -1,4 +1,3 @@
-function greeting(name) {
-    return "Hello, " + name + "!";
+function greeting(value) {
+    return "Hello, " + value.name "!";
 }
-module.exports = greeting;
