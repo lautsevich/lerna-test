@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "app description",
   "keywords": [
     "app"
@@ -27,6 +27,6 @@
     "url": "https://github.com/lautsevich/lerna-test/issues"
   },
   "dependencies": {
-    "lib": "^0.1.0"
+    "lib": "^0.2.0"
   }
 }
